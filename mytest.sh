@@ -1,4 +1,4 @@
-echo "this is the test data"
+echo "rajesh data this is the test data"
 date
 cal
 echo "bye"
